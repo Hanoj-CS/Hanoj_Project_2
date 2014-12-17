@@ -25,12 +25,12 @@ namespace HanojCS
         {
             while (success == false)
             {
-                Console.WriteLine("Hoeveel lagen heb je?(0 tm 95)");
+                Console.WriteLine("Hoeveel lagen heb je?(1 tm 95)");
                 string amountOfLayers = Console.ReadLine();
                 success = double.TryParse(amountOfLayers, out doubleLayers);
                 if (success)
                 {
-                    if (doubleLayers > 95 || doubleLayers < 0)
+                    if (doubleLayers > 95 || doubleLayers < 1)
                     {
                         success = false;
                     }

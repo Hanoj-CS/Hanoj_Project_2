@@ -4,3 +4,8 @@ c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\bin\Debug\
 c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\obj\Debug\HanojCS.exe
 c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\obj\Debug\HanojCS.pdb
 C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\HanojCS\obj\Debug\HanojCS.csprojResolveAssemblyReference.cache
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\HanojCS\bin\Debug\HanojCS.exe.config
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\HanojCS\obj\Debug\HanojCS.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\HanojCS\obj\Debug\HanojCS.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\HanojCS\bin\Debug\HanojCS.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\HanojCS\bin\Debug\HanojCS.pdb

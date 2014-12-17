@@ -42,14 +42,14 @@ namespace HanojCS
             }
 
             decimal result = 0;
-                for (int i = 0; i < Layers; i++)
-                {
-                    result = 2 * result + 1;
-         
-                    Console.WriteLine(i + 1 + ": " + result);
-                }
-                Console.WriteLine("Programma afgelopen, Druk op een toets om te sluiten");
-            Console.ReadKey();
+            for (int i = 0; i < Layers; i++)
+            {
+                result = 2 * result + 1;
+
+                Console.WriteLine(i + 1 + ":\t" + result);
             }
+            Console.WriteLine("Programma afgelopen, Druk op een toets om te sluiten");
+            Console.ReadKey();
+        }
     }
 }
