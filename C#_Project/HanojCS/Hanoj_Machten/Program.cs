@@ -34,7 +34,6 @@ namespace HanojCS
                     {
                         success = false;
                     }
-                    
                 }
             }
             Result = Convert.ToDecimal(Math.Pow(2, doubleLayers) - 1);

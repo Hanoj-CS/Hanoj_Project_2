@@ -23,7 +23,7 @@ namespace HanojCS
       */
     class Program
     {
-        static int intLayers;
+        static decimal Layers;
         static bool success;
         static void Main(string[] args)
         {
@@ -31,10 +31,10 @@ namespace HanojCS
             {
                 Console.WriteLine("Hoeveel lagen heb je?");
                 string amountOfLayers = Console.ReadLine();
-                success = int.TryParse(amountOfLayers, out intLayers);
+                success = Decimal.TryParse(amountOfLayers, out Layers);
                 if (success)
                 {
-                    if (intLayers > 95)
+                    if (Layers > 95 || Layers < 0)
                     {
                         success = false;
                     }
@@ -45,13 +45,13 @@ namespace HanojCS
             Console.WriteLine("Programma afgelopen, Druk op een toets om te sluiten");
             Console.ReadKey();
         }
-        static int previousnum = 0;
+        static decimal previousnum = 0;
         static int count;
         static void Hanoj()
         {
             count++;
             previousnum = 2 * previousnum + 1;
-            if (count == intLayers) { }
+            if (count == Layers) { count++; }
             else
                 Hanoj();
         }
