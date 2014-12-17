@@ -1,0 +1,5 @@
+C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Recursive\bin\Debug\Hanoj_Recursive.exe.config
+C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Recursive\bin\Debug\Hanoj_Recursive.exe
+C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Recursive\bin\Debug\Hanoj_Recursive.pdb
+C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Recursive\obj\Debug\Hanoj_Recursive.exe
+C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Recursive\obj\Debug\Hanoj_Recursive.pdb

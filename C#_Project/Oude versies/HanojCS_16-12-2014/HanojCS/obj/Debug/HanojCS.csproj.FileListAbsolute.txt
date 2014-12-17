@@ -1,0 +1,6 @@
+c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\bin\Debug\HanojCS.exe.config
+c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\bin\Debug\HanojCS.exe
+c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\bin\Debug\HanojCS.pdb
+c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\obj\Debug\HanojCS.exe
+c:\users\floris\documents\visual studio 2013\Projects\HanojCS\HanojCS\obj\Debug\HanojCS.pdb
+C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\HanojCS\obj\Debug\HanojCS.csprojResolveAssemblyReference.cache
