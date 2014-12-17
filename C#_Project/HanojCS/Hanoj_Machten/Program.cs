@@ -25,15 +25,16 @@ namespace HanojCS
         {
             while (success == false)
             {
-                Console.WriteLine("Hoeveel lagen heb je?(Tot 95)");
+                Console.WriteLine("Hoeveel lagen heb je?(0 tm 95)");
                 string amountOfLayers = Console.ReadLine();
                 success = double.TryParse(amountOfLayers, out doubleLayers);
                 if (success)
                 {
-                    if (doubleLayers > 95)
+                    if (doubleLayers > 95 || doubleLayers < 0)
                     {
                         success = false;
                     }
+                    
                 }
             }
             Result = Convert.ToDecimal(Math.Pow(2, doubleLayers) - 1);

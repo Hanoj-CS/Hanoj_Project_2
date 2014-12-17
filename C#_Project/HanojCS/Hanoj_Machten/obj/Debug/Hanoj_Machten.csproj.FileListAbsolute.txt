@@ -4,3 +4,9 @@ C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Machten\bin\
 C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Machten\obj\Debug\Hanoj_Machten.exe
 C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Machten\obj\Debug\Hanoj_Machten.pdb
 C:\Users\Floris\Documents\Visual Studio 2013\Projects\HanojCS\Hanoj_Machten\obj\Debug\Hanoj_Machten.csprojResolveAssemblyReference.cache
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten\bin\Debug\Hanoj_Machten.exe.config
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten\obj\Debug\Hanoj_Machten.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten\obj\Debug\Hanoj_Machten.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten\bin\Debug\Hanoj_Machten.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten\bin\Debug\Hanoj_Machten.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten\obj\Debug\Hanoj_Machten.csprojResolveAssemblyReference.cache
