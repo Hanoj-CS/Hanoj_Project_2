@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiCS", "HanoiCS\HanoiCS.csproj", "{714F584C-7410-42A1-8772-4AC91E2DD646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi_Machten", "Hanoi_Machten\Hanoi_Machten.csproj", "{C898554C-8D2B-41E3-A3E3-82C537A9F2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi_Recursive", "Hanoi_Recursive\Hanoi_Recursive.csproj", "{25269975-D24E-4903-A295-80EA38D6AAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi_columns", "Hanoi_columns\Hanoi_columns.csproj", "{FD671D9B-AF5C-45E0-BDB3-4BF8188C79F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi_Machten_GeenTijdsBerekening", "Hanoi_Machten_GeenTijdsBerekening\Hanoi_Machten_GeenTijdsBerekening.csproj", "{936BF9CC-B199-4BA8-9F7A-46E19CFA3ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{714F584C-7410-42A1-8772-4AC91E2DD646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714F584C-7410-42A1-8772-4AC91E2DD646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714F584C-7410-42A1-8772-4AC91E2DD646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714F584C-7410-42A1-8772-4AC91E2DD646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C898554C-8D2B-41E3-A3E3-82C537A9F2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C898554C-8D2B-41E3-A3E3-82C537A9F2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C898554C-8D2B-41E3-A3E3-82C537A9F2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C898554C-8D2B-41E3-A3E3-82C537A9F2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25269975-D24E-4903-A295-80EA38D6AAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25269975-D24E-4903-A295-80EA38D6AAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25269975-D24E-4903-A295-80EA38D6AAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25269975-D24E-4903-A295-80EA38D6AAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD671D9B-AF5C-45E0-BDB3-4BF8188C79F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD671D9B-AF5C-45E0-BDB3-4BF8188C79F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD671D9B-AF5C-45E0-BDB3-4BF8188C79F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD671D9B-AF5C-45E0-BDB3-4BF8188C79F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936BF9CC-B199-4BA8-9F7A-46E19CFA3ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936BF9CC-B199-4BA8-9F7A-46E19CFA3ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936BF9CC-B199-4BA8-9F7A-46E19CFA3ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936BF9CC-B199-4BA8-9F7A-46E19CFA3ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

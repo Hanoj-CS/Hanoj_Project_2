@@ -1,0 +1,5 @@
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Machten\bin\Debug\Hanoj_Machten.exe.config
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Machten\obj\Debug\Hanoj_Machten.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Machten\obj\Debug\Hanoj_Machten.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Machten\bin\Debug\Hanoj_Machten.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Machten\bin\Debug\Hanoj_Machten.pdb

@@ -1,0 +1,5 @@
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Recursive\bin\Debug\Hanoj_Recursive.exe.config
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Recursive\obj\Debug\Hanoj_Recursive.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Recursive\obj\Debug\Hanoj_Recursive.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Recursive\bin\Debug\Hanoj_Recursive.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_Recursive\bin\Debug\Hanoj_Recursive.pdb

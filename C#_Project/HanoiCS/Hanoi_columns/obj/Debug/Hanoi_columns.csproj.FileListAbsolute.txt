@@ -1,0 +1,5 @@
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_columns\bin\Debug\Hanoj_columns.exe.config
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_columns\obj\Debug\Hanoj_columns.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_columns\obj\Debug\Hanoj_columns.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_columns\bin\Debug\Hanoj_columns.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\Hanoi_columns\bin\Debug\Hanoj_columns.pdb

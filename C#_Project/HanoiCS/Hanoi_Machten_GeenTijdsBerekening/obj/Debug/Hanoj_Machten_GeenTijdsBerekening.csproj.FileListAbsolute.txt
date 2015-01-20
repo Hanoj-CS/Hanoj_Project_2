@@ -1,0 +1,6 @@
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten_GeenTijdsBerekening\bin\Debug\Hanoj_Machten_GeenTijdsBerekening.exe.config
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten_GeenTijdsBerekening\bin\Debug\Hanoj_Machten_GeenTijdsBerekening.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten_GeenTijdsBerekening\bin\Debug\Hanoj_Machten_GeenTijdsBerekening.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten_GeenTijdsBerekening\obj\Debug\Hanoj_Machten_GeenTijdsBerekening.csprojResolveAssemblyReference.cache
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten_GeenTijdsBerekening\obj\Debug\Hanoj_Machten_GeenTijdsBerekening.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanojCS\Hanoj_Machten_GeenTijdsBerekening\obj\Debug\Hanoj_Machten_GeenTijdsBerekening.pdb

@@ -1,0 +1,6 @@
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\HanoiCS\bin\Debug\HanojCS.exe.config
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\HanoiCS\obj\Debug\HanojCS.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\HanoiCS\obj\Debug\HanojCS.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\HanoiCS\bin\Debug\HanojCS.exe
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\HanoiCS\bin\Debug\HanojCS.pdb
+C:\Users\Floris\Documents\GitHub\Hanoj_Project_2\C#_Project\HanoiCS\HanoiCS\obj\Debug\HanoiCS.csprojResolveAssemblyReference.cache
