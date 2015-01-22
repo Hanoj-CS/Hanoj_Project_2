@@ -14,6 +14,7 @@ namespace HanojCS
     {
         static decimal Result;
         static double doubleLayers;
+        static decimal Layers;
         static bool success;
         static decimal years;
         static decimal months;
@@ -33,6 +34,10 @@ namespace HanojCS
                     if (doubleLayers > 95 || doubleLayers < 1)
                     {
                         success = false;
+                    }
+                    if (doubleLayers > 64)
+                    {
+                        Console.WriteLine("Nummers boven 64 kunnen afwijken.");
                     }
                     success = !amountOfLayers.Contains(",");
                 }

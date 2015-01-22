@@ -16,12 +16,12 @@
       </languages>
       <mode type="normal"/>
     </settings>
-    <object id="0_13696309" type="image" x="-2.9218981291296067e-12" y="-9.405929670419543e-13" r="0" s="58.74963055359937">
+    <object id="0_13696309" type="image" x="-2.9218981291296067e-12" y="-9.405929670419545e-13" r="0" s="58.74963055359937">
       <source w="1907" h="1073" bt="3.2" bl="6.85">934460913<url>934460913.swf</url></source>
-      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/0/2/e/6b5698fbf71b784a18d8ec29ebc9d3adfc716.swf</sourceUrl>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F0%2F2%2Fe%2F6b5698fbf71b784a18d8ec29ebc9d3adfc716.swf</sourceUrl>
       <meta>
-        <notModifiedByUser>from-template</notModifiedByUser>
         <parentTemplate>assembly</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
       </meta>
     <resource><id>934460913</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/2/e/6b5698fbf71b784a18d8ec29ebc9d3adfc716.swf</url></resource></object>
     <object id="2_13696309" type="button" x="1127.283955387046" y="569.5798012146018" r="0" s="71.04179213851378" class="invisible">
@@ -31,8 +31,8 @@
         <h>609.6992380554113</h>
       </size>
       <meta>
-        <notModifiedByUser>from-template</notModifiedByUser>
         <parentTemplate>assembly</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
       </meta>
       <layout>
         <frametype value="OVERVIEW"/>
@@ -45,8 +45,8 @@
         <h>600</h>
       </size>
       <meta>
-        <notModifiedByUser>from-template</notModifiedByUser>
         <parentTemplate>assembly</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
       </meta>
       <layout>
         <frametype value="SECTION"/>
@@ -66,22 +66,22 @@
         <h>600</h>
       </size>
       <meta>
-        <notModifiedByUser>from-template</notModifiedByUser>
         <parentTemplate>assembly</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
       </meta>
       <layout>
         <frametype value="SECTION"/>
       </layout>
     </object>
-    <object id="10_13696309" type="button" x="21775.010498469106" y="-9649.852289445324" r="0" s="14.818294969627516" class="bracket">
+    <object id="10_13696309" type="button" x="21775.010498469102" y="-9649.852289445324" r="0" s="14.818294969627516" class="bracket">
       <type>bracket</type>
       <size>
         <w>1064.308517430724</w>
         <h>600</h>
       </size>
       <meta>
-        <notModifiedByUser>from-template</notModifiedByUser>
         <parentTemplate>assembly</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
       </meta>
       <layout>
         <frametype value="SECTION"/>
@@ -94,8 +94,8 @@
         <h>600</h>
       </size>
       <meta>
-        <notModifiedByUser>from-template</notModifiedByUser>
         <parentTemplate>assembly</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
       </meta>
       <layout>
         <frametype value="SECTION"/>
@@ -118,7 +118,7 @@
         <layout-element role="title" parent-id="13_13696309"/>
       </layout>
     </object>
-    <object id="1_30863873" type="text" x="-19979.274518725175" y="11158.916896260425" r="0" s="18.747471165267555" class="body">
+    <object id="1_30863873" type="text" x="-19979.274518725175" y="11158.916896260424" r="0" s="18.747471165267555" class="body">
       <height>130.734375</height>
       <width>642.4221214502834</width>
       <p listType="bullet" indent="1">
@@ -189,7 +189,7 @@
         <text><![CDATA[-Machten]]></text>
       </p>
       <p>
-        <text><![CDATA[-Colommen]]></text>
+        <text><![CDATA[-Kolommen]]></text>
       </p>
       <p>
         <text><![CDATA[]]></text>
@@ -220,14 +220,14 @@
       <p indent="1">
         <text><![CDATA[getallen met een , gefilterd]]></text>
       </p>
-      <p indent="1">
-        <text><![CDATA[]]></text>
+      <p>
+        <text><![CDATA[Limitaties van de Mat.pow functie]]></text>
       </p>
       <layout>
         <layout-element role="body" parent-id="10_13696309"/>
       </layout>
     </object>
-    <object id="0_74814059" type="button" x="-1460.7360611458496" y="-699.2970153644773" r="0" s="1.8433924745078538" class="bracket">
+    <object id="0_74814059" type="button" x="-1460.7360611458496" y="-699.2970153644773" r="0" s="1.8433924745078536" class="bracket">
       <type>bracket</type>
       <size>
         <w>800</w>
@@ -236,7 +236,7 @@
     </object>
     <object id="2_74814059" type="image" x="-1460.7360611458496" y="-699.4961885388904" r="0" s="2.187903185704212">
       <source w="539" h="268">2945369755<url>2945369755.png</url></source>
-      <sourceUrl>http://i.gyazo.com/891056ceef79833867d79720b0e50191.png</sourceUrl>
+      <sourceUrl>http%3A%2F%2Fi.gyazo.com%2F891056ceef79833867d79720b0e50191.png</sourceUrl>
     <resource><id>2945369755</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/d/0/2bbd6e0e9ff0d8ac67322ac478001f0c5af65.png</url></resource></object>
     <object id="4_74814059" type="button" x="-2186.136022502609" y="1040.5839354279628" r="0" s="2.7904816484850063" class="bracket">
       <type>bracket</type>
@@ -247,7 +247,7 @@
     </object>
     <object id="5_74814059" type="image" x="-2186.1247623584454" y="1040.4806631341582" r="0" s="3.076819846366608">
       <source w="535" h="365">2945380291<url>2945380291.png</url></source>
-      <sourceUrl>http://i.gyazo.com/9ff17c8ccda9c5f4477dabff29cc83f5.png</sourceUrl>
+      <sourceUrl>http%3A%2F%2Fi.gyazo.com%2F9ff17c8ccda9c5f4477dabff29cc83f5.png</sourceUrl>
     <resource><id>2945380291</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/4/d/fb15696fc8a8c3f23dfe65c92e77eb3c337d3.png</url></resource></object>
     <object id="6_74814059" type="button" x="-2861.720169967761" y="2096.297660698127" r="0" s="1.1941954331686977" class="bracket">
       <type>bracket</type>
@@ -258,7 +258,7 @@
     </object>
     <object id="8_74814059" type="image" x="-2861.720169967761" y="2096.297660698127" r="0" s="1.5749712781469636">
       <source w="541" h="84">2945385820<url>2945385820.png</url></source>
-      <sourceUrl>http://i.gyazo.com/ccd353e7f0186a1275ac682916e3bde3.png</sourceUrl>
+      <sourceUrl>http%3A%2F%2Fi.gyazo.com%2Fccd353e7f0186a1275ac682916e3bde3.png</sourceUrl>
     <resource><id>2945385820</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/0/8/a3f29d49bcc2d59879bebf3d31d5ae6ea9436.png</url></resource></object>
     <object id="9_74814059" type="button" x="875.7644478945049" y="886.9181456616399" r="0" s="23.345954941384033" class="invisible">
       <type>invisible</type>
@@ -302,7 +302,7 @@
         <h>600</h>
       </size>
     </object>
-    <object id="15_74814059" type="button" x="-3197.924488377114" y="2843.79458427058" r="0" s="1.0758192292510407" class="bracket">
+    <object id="15_74814059" type="button" x="-3197.924488377114" y="2843.79458427058" r="0" s="1.075819229251041" class="bracket">
       <type>bracket</type>
       <size>
         <w>800</w>
@@ -311,7 +311,7 @@
     </object>
     <object id="16_74814059" type="image" x="-3197.924488377114" y="2843.79458427058" r="0" s="1.274513964960278">
       <source w="540" h="105">2945398579<url>2945398579.png</url></source>
-      <sourceUrl>http://i.gyazo.com/395d25e641f60c962e293056adc7f60a.png</sourceUrl>
+      <sourceUrl>http%3A%2F%2Fi.gyazo.com%2F395d25e641f60c962e293056adc7f60a.png</sourceUrl>
     <resource><id>2945398579</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/e/4/25c3e65b29b77b52bbe9107f7552ea766e2c1.png</url></resource></object>
     <object id="17_74814059" type="button" x="876.1627942433311" y="888.1131847081185" r="0" s="26.235767156859204" class="invisible">
       <type>invisible</type>
@@ -327,9 +327,9 @@
         <h>320.02171085469945</h>
       </size>
     </object>
-    <object id="19_74814059" type="image" x="-3197.924488377114" y="3794.4481457444194" r="0" s="1.3584863252742627">
+    <object id="19_74814059" type="image" x="-3197.924488377114" y="3794.448145744419" r="0" s="1.3584863252742627">
       <source w="545" h="480">2945408515<url>2945408515.png</url></source>
-      <sourceUrl>http://i.gyazo.com/5e5aba9f6f165257e24922330bb48f3a.png</sourceUrl>
+      <sourceUrl>http%3A%2F%2Fi.gyazo.com%2F5e5aba9f6f165257e24922330bb48f3a.png</sourceUrl>
     <resource><id>2945408515</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/c/8/ba7b39f50eef2e5ccbaf0795b2104f38e7cb1.png</url></resource></object>
   </zui-table>
   <path>
@@ -412,16 +412,16 @@
 
 @font-face
 {
-	src: url('NotoSans-Regular.keg');
-	font-style: normal;
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
 	font-weight: normal;
 	font-family: NotoSans;
 }
 
 @font-face
 {
-	src: url('NotoSans-Italic.keg');
-	font-style: italic;
+	src: url('NotoSans-Regular.keg');
+	font-style: normal;
 	font-weight: normal;
 	font-family: NotoSans;
 }
@@ -682,5 +682,5 @@ ZPoly
 }
 
 ]]></style>
-  <hash>-78a9cd30</hash>
-<sync><oid>whysemuwlpaw</oid><title>untitled-prezi</title><hash>-78a9cd30</hash></sync><config>bB9goFMo7jWu1+mbZN5hr+Iv391UyKDhSLev6EoipoCZ0RYHal4367mCT5hSBTBgbDVAFiz78y36GckdfHyYeJ+SkAEklWX++aDfpZUq41CwnX2EZzsewUNgSS0MMiQIS6dm5zBjtftJJ+LIw3ZhG0HB1Wt2joDhv8nkzc0QOKdCIh04rwMRddWoPYnUIiME0j67Q94ag+sZHMygi+QCnnfB0OOKqnRrCGNvOYQUUlFo2w7yc7hVN8TaJjGtJvn/7d3VgVSJ0bljlKyWCxNOAdLV/8ztTfIeR3w1bYc2INuH22peLYjiZmV5Oc5v6VDTlSyhkiIjvHj4kE/bDPasrw==</config></zuiprezi>
+  <hash>8fb4449</hash>
+<sync><oid>whysemuwlpaw</oid><title>project2_functionele_presentatie_groep_19_patrick_van_batenburg_en_floris_van_londen</title><hash>8fb4449</hash></sync><config>FS8hEOk1lc5OfwSD8d9Dz1h/xkYXX5BeSRVQ7/3B9DgAbZFFjIy4lRRJg1wVgf+ja6oOSrAiXI75D37J39/Qks8i8qWj6gOjnbn+wJCGsl6sqPAm9K9xDa6qnWGLYsToIvpFgXEkyaObZ7p0ZUNSZiRzeMJ9FC9mPX9u8UVCuKjf9VRzM3hC5y24YfOju7ON05Dyv9ONVUvEN67VmX9Ds/x/bB6bfjcnVEZlSh8RCPLcDPJ88HL2ZthoY16F/wCZyC6gOG6qjKJl7JdqhE/q5G08z8+F3GsD3EarOvFxRrAFYYcKs5Zs2GmtPI+DcMiOVotASzbzBIQgA5cAkgyRDA==</config></zuiprezi>

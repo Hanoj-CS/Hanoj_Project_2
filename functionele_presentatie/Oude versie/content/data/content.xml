@@ -1,0 +1,686 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-56025.116436676195" y="-31535.332940408298" width="112050.23287335239" height="63070.665880816596"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>nl</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="0_13696309" type="image" x="-2.9218981291296067e-12" y="-9.405929670419543e-13" r="0" s="58.74963055359937">
+      <source w="1907" h="1073" bt="3.2" bl="6.85">934460913<url>934460913.swf</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/0/2/e/6b5698fbf71b784a18d8ec29ebc9d3adfc716.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>assembly</parentTemplate>
+      </meta>
+    <resource><id>934460913</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/2/e/6b5698fbf71b784a18d8ec29ebc9d3adfc716.swf</url></resource></object>
+    <object id="2_13696309" type="button" x="1127.283955387046" y="569.5798012146018" r="0" s="71.04179213851378" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1083.9097565429531</w>
+        <h>609.6992380554113</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>assembly</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="3_13696309" type="button" x="-20006.64751146777" y="840.0395242800652" r="0" s="14.818294969627516" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1064.308517430724</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>assembly</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="3_74814059" type="button" x="872.7768502783081" y="887.316492010466" r="0" s="27.54765967953479" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="4_13696309" type="button" x="875.0018400571937" y="886.912276191721" r="0" s="21.345627573892457" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1064.308517430724</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>assembly</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="10_13696309" type="button" x="21775.010498469106" y="-9649.852289445324" r="0" s="14.818294969627516" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1064.308517430724</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>assembly</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="13_13696309" type="button" x="-19979.84426533877" y="11368.544111698233" r="0" s="14.818294969627516" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1064.308517430724</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>assembly</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="54_13696309" type="text" x="1333.7872893687893" y="-17476.860948459263" r="0" s="125.62216937563876" class="head">
+      <height>28.8</height>
+      <width>545.3815005457795</width>
+      <p>
+        <text><![CDATA[Torens van Hanoj]]></text>
+      </p>
+    </object>
+    <object id="0_30863873" type="text" x="-19980.46111550453" y="8125.664661352107" r="0" s="29.15709613442704" class="strong">
+      <height>32.68359375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Samenwerking]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="13_13696309"/>
+      </layout>
+    </object>
+    <object id="1_30863873" type="text" x="-19979.274518725175" y="11158.916896260425" r="0" s="18.747471165267555" class="body">
+      <height>130.734375</height>
+      <width>642.4221214502834</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[afspraken]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[contact]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[planning]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[taakverdeling]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="13_13696309"/>
+      </layout>
+    </object>
+    <object id="7_4" type="text" x="-20007.28051799409" y="-2487.7764836904084" r="0" s="29.92077033628988" class="strong">
+      <height>32.68359375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Uitleg check mechanisme]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_13696309"/>
+      </layout>
+    </object>
+    <object id="24_4" type="text" x="-20006.062842216183" y="310.37234697280115" r="0" s="19.2384994903475" class="body">
+      <height>98.05078125</height>
+      <width>642.4221214502834</width>
+      <p>
+        <text><![CDATA[-Checkt of het een nummer is]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Kijkt of een nummer tussen 1 en 95 is dat geen "," bevat]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3_13696309"/>
+      </layout>
+    </object>
+    <object id="8_30863873" type="text" x="874.113272652219" y="-3784.427925632964" r="0" s="42.00054840974079" class="strong">
+      <height>32.68359375</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Functionaliteiten per programma]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="4_13696309"/>
+      </layout>
+    </object>
+    <object id="9_30863873" type="text" x="895.1423531149068" y="1908.2191064168064" r="0" s="27.005572386453043" class="body">
+      <height>228.78515625</height>
+      <width>642.4221214502834</width>
+      <p>
+        <text><![CDATA[-Tijdsberekening]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Berekenmethoden]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[-For lus]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[-Recursive]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[-Machten]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Colommen]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="4_13696309"/>
+      </layout>
+    </object>
+    <object id="12_30863873" type="text" x="22176.76157495843" y="-12892.731739791452" r="0" s="29.15709613442704" class="strong">
+      <height>32.68359375</height>
+      <width>436.94614355392105</width>
+      <p align="center">
+        <text><![CDATA[Problemen waar we tegen aanliepen]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="10_13696309"/>
+      </layout>
+    </object>
+    <object id="13_30863873" type="text" x="22137.67707616577" y="-10479.505596831195" r="0" s="18.747471165267555" class="body">
+      <height>130.734375</height>
+      <width>642.4221214502834</width>
+      <p>
+        <text><![CDATA[Bugfixes]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[Getallen lager dan nul gefilterd]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[getallen met een , gefilterd]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="10_13696309"/>
+      </layout>
+    </object>
+    <object id="0_74814059" type="button" x="-1460.7360611458496" y="-699.2970153644773" r="0" s="1.8433924745078538" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2_74814059" type="image" x="-1460.7360611458496" y="-699.4961885388904" r="0" s="2.187903185704212">
+      <source w="539" h="268">2945369755<url>2945369755.png</url></source>
+      <sourceUrl>http://i.gyazo.com/891056ceef79833867d79720b0e50191.png</sourceUrl>
+    <resource><id>2945369755</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/d/0/2bbd6e0e9ff0d8ac67322ac478001f0c5af65.png</url></resource></object>
+    <object id="4_74814059" type="button" x="-2186.136022502609" y="1040.5839354279628" r="0" s="2.7904816484850063" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>643.8214327118576</w>
+        <h>482.8660745338932</h>
+      </size>
+    </object>
+    <object id="5_74814059" type="image" x="-2186.1247623584454" y="1040.4806631341582" r="0" s="3.076819846366608">
+      <source w="535" h="365">2945380291<url>2945380291.png</url></source>
+      <sourceUrl>http://i.gyazo.com/9ff17c8ccda9c5f4477dabff29cc83f5.png</sourceUrl>
+    <resource><id>2945380291</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/4/d/fb15696fc8a8c3f23dfe65c92e77eb3c337d3.png</url></resource></object>
+    <object id="6_74814059" type="button" x="-2861.720169967761" y="2096.297660698127" r="0" s="1.1941954331686977" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_74814059" type="image" x="-2861.720169967761" y="2096.297660698127" r="0" s="1.5749712781469636">
+      <source w="541" h="84">2945385820<url>2945385820.png</url></source>
+      <sourceUrl>http://i.gyazo.com/ccd353e7f0186a1275ac682916e3bde3.png</sourceUrl>
+    <resource><id>2945385820</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/0/8/a3f29d49bcc2d59879bebf3d31d5ae6ea9436.png</url></resource></object>
+    <object id="9_74814059" type="button" x="875.7644478945049" y="886.9181456616399" r="0" s="23.345954941384033" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1150.1618122977343</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="10_74814059" type="button" x="876.1627942433311" y="887.316492010466" r="0" s="24.748717904099156" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1150.1618122977343</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11_74814059" type="button" x="-1460.7360611458491" y="-699.2970153644774" r="0" s="2.0161392538199814" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1150.1618122977343</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="12_74814059" type="button" x="-2861.5209967933483" y="2096.297660698127" r="0" s="1.306105087679043" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1150.1618122977343</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="13_74814059" type="button" x="876.1627942433311" y="887.316492010466" r="0" s="24.748717904099156" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1150.1618122977343</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="14_74814059" type="button" x="876.1627942433311" y="888.1131847081185" r="0" s="26.235767156859204" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1150.1618122977343</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="15_74814059" type="button" x="-3197.924488377114" y="2843.79458427058" r="0" s="1.0758192292510407" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="16_74814059" type="image" x="-3197.924488377114" y="2843.79458427058" r="0" s="1.274513964960278">
+      <source w="540" h="105">2945398579<url>2945398579.png</url></source>
+      <sourceUrl>http://i.gyazo.com/395d25e641f60c962e293056adc7f60a.png</sourceUrl>
+    <resource><id>2945398579</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/e/4/25c3e65b29b77b52bbe9107f7552ea766e2c1.png</url></resource></object>
+    <object id="17_74814059" type="button" x="876.1627942433311" y="888.1131847081185" r="0" s="26.235767156859204" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1150.1618122977343</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="18_74814059" type="button" x="-3197.999287881859" y="3794.503173398904" r="0" s="2.547161859889243" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>606.3325355861625</w>
+        <h>320.02171085469945</h>
+      </size>
+    </object>
+    <object id="19_74814059" type="image" x="-3197.924488377114" y="3794.4481457444194" r="0" s="1.3584863252742627">
+      <source w="545" h="480">2945408515<url>2945408515.png</url></source>
+      <sourceUrl>http://i.gyazo.com/5e5aba9f6f165257e24922330bb48f3a.png</sourceUrl>
+    <resource><id>2945408515</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/c/8/ba7b39f50eef2e5ccbaf0795b2104f38e7cb1.png</url></resource></object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="2_13696309"/>
+    </s>
+    <s>
+      <eagle o="4_13696309"/>
+    </s>
+    <s>
+      <eagle o="0_74814059"/>
+    </s>
+    <s>
+      <eagle o="10_74814059"/>
+    </s>
+    <s>
+      <eagle o="4_74814059"/>
+    </s>
+    <s>
+      <eagle o="9_74814059"/>
+    </s>
+    <s>
+      <eagle o="6_74814059"/>
+    </s>
+    <s>
+      <eagle o="13_74814059"/>
+    </s>
+    <s>
+      <eagle o="15_74814059"/>
+    </s>
+    <s>
+      <eagle o="14_74814059"/>
+    </s>
+    <s>
+      <eagle o="18_74814059"/>
+    </s>
+    <s>
+      <eagle o="13_13696309"/>
+    </s>
+    <s>
+      <eagle o="10_13696309"/>
+    </s>
+    <s>
+      <eagle o="3_13696309"/>
+    </s>
+    <s>
+      <eagle o="2_13696309"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Aleo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Aleo;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Aleo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Aleo;
+}
+
+@font-face
+{
+	src: url('Aleo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Aleo;
+}
+
+@font-face
+{
+	src: url('Aleo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Aleo;
+}
+
+.line1
+{
+	color: #e64038;
+	gradEndColor: #e64038;
+	gradStartColor: #e64038;
+}
+
+.line2
+{
+	color: #107fc9;
+	gradEndColor: #107fc9;
+	gradStartColor: #107fc9;
+}
+
+.line3
+{
+	color: #5cceee;
+	gradEndColor: #5cceee;
+	gradStartColor: #5cceee;
+}
+
+.line4
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.line5
+{
+	color: #9798a6;
+	gradEndColor: #9798a6;
+	gradStartColor: #9798a6;
+}
+
+.poly1
+{
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #e64038;
+	gradStartColor: #e64038;
+}
+
+.poly2
+{
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #107fc9;
+	gradStartColor: #107fc9;
+}
+
+.poly3
+{
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #5cceee;
+	gradStartColor: #5cceee;
+}
+
+.poly4
+{
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.poly5
+{
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #9798a6;
+	gradStartColor: #9798a6;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 1;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #107fc9;
+	gradStartAlpha: 1;
+	gradStartColor: #107fc9;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #00a4d2;
+	borderThickness: 16;
+	gradEndAlpha: 0.75;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.8;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 0;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #efefef;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #525252;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.7;
+	background-color: #92e0ff;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #00a4d2;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.7;
+	background-color: #eee8e8;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.7;
+	color: #d5f956;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-78a9cd30</hash>
+<sync><oid>whysemuwlpaw</oid><title>untitled-prezi</title><hash>-78a9cd30</hash></sync><config>bB9goFMo7jWu1+mbZN5hr+Iv391UyKDhSLev6EoipoCZ0RYHal4367mCT5hSBTBgbDVAFiz78y36GckdfHyYeJ+SkAEklWX++aDfpZUq41CwnX2EZzsewUNgSS0MMiQIS6dm5zBjtftJJ+LIw3ZhG0HB1Wt2joDhv8nkzc0QOKdCIh04rwMRddWoPYnUIiME0j67Q94ag+sZHMygi+QCnnfB0OOKqnRrCGNvOYQUUlFo2w7yc7hVN8TaJjGtJvn/7d3VgVSJ0bljlKyWCxNOAdLV/8ztTfIeR3w1bYc2INuH22peLYjiZmV5Oc5v6VDTlSyhkiIjvHj4kE/bDPasrw==</config></zuiprezi>
